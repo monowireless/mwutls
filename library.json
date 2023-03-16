@@ -1,0 +1,16 @@
+{
+    "name": "MWings",
+    "keywords": "Mono Wireless, TWELITE, TWE, Wings",
+    "description": "Mono Wireless Wings Parser Library.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/monowireless/ARD_MWings"
+    },
+    "version": "0.1",
+    "exclude": "doc",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif"
+    ]
+}
